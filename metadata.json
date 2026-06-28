@@ -1,0 +1,5 @@
+{
+  "name": "NodeLab",
+  "description": "A split-screen intelligent coding environment with real-time AI assistance, multi-language support, and instant previews.",
+  "requestFramePermissions": []
+}
